@@ -1,0 +1,6 @@
+https://semaphoreci.com/community/tutorials/testing-rest-endpoints-using-rest-assured
+https://petstore.swagger.io/#/user/createUsersWithArrayInput
+https://habr.com/ru/company/dins/blog/464225/
+https://github.com/rest-assured/rest-assured/wiki/Usage
+https://phauer.com/2016/testing-restful-services-java-best-practices/
+https://www.javadoc.io/doc/io.rest-assured/rest-assured/4.3.3/io/restassured/specification/RequestSpecification.html#request-java.lang.String-java.lang.String-
